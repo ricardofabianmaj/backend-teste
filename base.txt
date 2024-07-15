@@ -1,0 +1,3 @@
+Começar a criar o projeto backend em node com 'npm init'
+
+depos instalar express 'npm i express'
